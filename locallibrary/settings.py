@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['*']
 
 # Add CSRF trusted origins for your Azure domain
 CSRF_TRUSTED_ORIGINS = [
-    'https://papaerchase-esgbcmhwdvfghbc2.canadacentral-01.azurewebsites.net'
+   
 ]
 
 
